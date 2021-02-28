@@ -1,0 +1,41 @@
+{
+  "name": "synerzip",
+  "version": "1.0.0",
+  "description": "synerzip test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s7santosh/synerzip.git"
+  },
+  "author": "santosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s7santosh/synerzip/issues"
+  },
+  "homepage": "https://github.com/s7santosh/synerzip#readme",
+  "dependencies": {
+    "fabric-ca-client": "^2.2.0",
+    "fabric-network": "^2.2.0",
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.3",
+    "express-jsdoc-swagger": "^1.0.5",
+    "express": "^4.15.2",
+    "express-bearer-token": "^2.1.0",
+    "express-jwt": "^5.1.0",
+    "express-session": "^1.15.2",
+    "fs-extra": "^2.0.0",
+    "jsonwebtoken": "^7.3.0",
+    "log4js": "^0.6.38",
+    "rimraf": "^3.0.1",
+    "shelljs": "^0.8.3",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4",
+    "simple-git": "^1.131.0",
+    "json-groupby": "1.1.0",
+    "dotenv": "^8.2.0"
+  }
+}
